@@ -6,6 +6,7 @@
 <p align="center">Um site do e-commerce AluraBooks, uma livraria online de livros sobre tecnologia.</p>
 
 ## Link:
+https://bryanseminate.github.io/AluraBooks/
 
 
 ## 🚀 Tecnologias: 
